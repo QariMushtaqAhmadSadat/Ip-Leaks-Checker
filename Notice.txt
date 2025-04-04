@@ -1,0 +1,5 @@
+Notice: Responsible Use of Ip-Leaks-Checker
+
+This tool is strictly intended for cybersecurity and penetration testing purposes within legal and ethical boundaries. It is designed to help individuals and organizations safeguard their systems and identify vulnerabilities.
+
+Do not use this tool for illegal, malicious, or unethical activities.

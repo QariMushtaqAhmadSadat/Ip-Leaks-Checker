@@ -1,0 +1,5 @@
+Ip Leaks Checker
+
+	Run the Python script, and observe the IP displayed in the terminal.
+        If it continuously shows your VPN IP, your real IP is protected with no leaks. 
+        If your real IP appears, it indicates a DNS/IP leak, and your VPN isn't fully secure.
